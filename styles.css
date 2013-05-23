@@ -1,0 +1,294 @@
+
+body {
+    background: none repeat scroll 0 0 #FFFFFF;
+    color: #787F8C;
+    font-family: Verdana,Arial,san-serif;
+    font-size: 11px;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+}
+a:link, a:visited {
+    color: #0099CC;
+    text-decoration: none;
+}
+a:active, a:hover {
+    color: #006699;
+    text-decoration: underline;
+}
+p {
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+}
+.cleaner {
+    clear: both;
+    font-size: 1px;
+    height: 1px;
+    width: 100%;
+}
+.cleaner_with_height {
+    clear: both;
+    font-size: 1px;
+    height: 30px;
+    width: 100%;
+}
+#templatemo_container {
+    background: url("images/templatemo_main_bg.gif") repeat-y scroll 0 0 transparent;
+    margin: 0 auto;
+    padding: 0 10px;
+    width: 960px;
+}
+#templatemo_header {
+    background: url("images/header_img_bg.jpg") no-repeat scroll center top transparent;
+    font-size: 12px;
+    height: 360px;
+    width: 960px;
+}
+#templatemo_header #out_mission_section {
+    float: left;
+    margin-left: 30px;
+    margin-top: 210px;
+    padding: 0 15px;
+    width: 250px;
+}
+#templatemo_header #daily_bible_verse_section {
+    float: right;
+    margin-right: 30px;
+    margin-top: 210px;
+    padding: 0 15px;
+    width: 250px;
+}
+#daily_bible_verse_section #bible_verse {
+    clear: both;
+    font-weight: bold;
+    padding-top: 5px;
+}
+#templatemo_menu {
+    background: url("images/templatemo_menu_bg.gif") repeat-x scroll 0 0 transparent;
+    clear: both;
+    height: 50px;
+    width: 960px;
+}
+#templatemo_menu ul {
+    list-style: none outside none;
+    margin: 0;
+    padding: 12px 0 0;
+    text-align: center;
+}
+#templatemo_menu ul li {
+    display: inline;
+    text-align: center;
+}
+#templatemo_menu ul li a {
+    border-right: 1px solid #D5D5D5;
+    color: #4979AF;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px 25px;
+    text-align: center;
+    text-decoration: none;
+}
+#templatemo_menu li a:hover, #templatemo_menu li .current {
+    color: #1D2F53;
+}
+#templatemo_menu li .last {
+    border-right: medium none;
+}
+#templatemo_content {
+    clear: both;
+    height: 100%;
+    width: 960px;
+}
+#templatemo_content #templatemo_left {
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+    padding: 0;
+    width: 420px;
+}
+#templatemo_content #templatemo_right {
+    float: right;
+    margin-right: 30px;
+    margin-top: 30px;
+    padding: 0;
+    width: 430px;
+}
+#templatemo_content #templatemo_right ul li {
+    color: #0099CC;
+}
+#templatemo_left #templatemo_mission_section {
+    clear: both;
+    width: 420px;
+}
+#templatemo_mission_section h1 {
+    background: url("images/mission_title_bg.jpg") no-repeat scroll left bottom transparent;
+    height: 30px;
+    margin-bottom: 30px;
+    padding: 20px 0 0 15px;
+}
+#templatemo_news_section .templatemo_mission_box {
+    margin: 0 15px 30px;
+}
+.templatemo_mission_box h2 {
+    color: #0099CC;
+    font-size: 14px;
+    margin: 0 0 10px;
+    padding: 0;
+}
+.templatemo_mission_box h3 {
+    color: #0099CC;
+    font-size: 11px;
+    margin: 0 0 2px;
+    padding: 0;
+}
+#templatemo_left #templatemo_videos_section {
+    clear: both;
+    width: 420px;
+}
+#templatemo_videos_section h1 {
+    background: url("images/video_title_bg.jpg") no-repeat scroll left bottom transparent;
+    height: 30px;
+    margin-bottom: 30px;
+    padding: 20px 0 0 15px;
+}
+#templatemo_news_section .templatemo_videos_box {
+    margin: 0 15px 30px;
+}
+.templatemo_videos_box h2 {
+    color: #0099CC;
+    font-size: 14px;
+    margin: 0 0 10px;
+    padding: 0;
+}
+.templatemo_videos_box h3 {
+    color: #0099CC;
+    font-size: 11px;
+    margin: 0 0 2px;
+    padding: 0;
+}
+#templatemo_left #templatemo_location_section {
+    clear: both;
+    width: 420px;
+}
+#templatemo_location_section h1 {
+    background: url("images/location_title_bg.jpg") no-repeat scroll left bottom transparent;
+    height: 30px;
+    margin-bottom: 30px;
+    padding: 20px 0 0 15px;
+}
+#templatemo_news_section .templatemo_location_box {
+    margin: 0 15px 30px;
+}
+.templatemo_location_box h2 {
+    color: #0099CC;
+    font-size: 14px;
+    margin: 0 0 10px;
+    padding: 0;
+}
+.templatemo_location_box h3 {
+    color: #0099CC;
+    font-size: 11px;
+    margin: 0 0 2px;
+    padding: 0;
+}
+#templatemo_left #templatemo_news_section {
+    clear: both;
+    width: 420px;
+}
+#templatemo_news_section h1 {
+    background: url("images/news_title_bg.gif") no-repeat scroll left bottom transparent;
+    height: 30px;
+    margin-bottom: 30px;
+    padding: 20px 0 0 15px;
+}
+#templatemo_news_section .templatemo_news_box {
+    margin: 0 15px 30px;
+}
+.templatemo_news_box h2 {
+    color: #0099CC;
+    font-size: 14px;
+    margin: 0 0 10px;
+    padding: 0;
+}
+.templatemo_news_box h3 {
+    color: #0099CC;
+    font-size: 11px;
+    margin: 0 0 2px;
+    padding: 0;
+}
+#templatemo_left .left_col_section {
+    margin-bottom: 30px;
+    padding: 0;
+}
+#templatemo_right .right_col_section {
+    margin-bottom: 30px;
+    padding: 0;
+}
+.right_col_section h1 {
+    color: #0099CC;
+    font-size: 22px;
+    font-weight: normal;
+    margin: 0 0 15px;
+    padding: 0;
+}
+.right_col_section h2 {
+    color: #0099CC;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0 0 15px;
+    padding: 0;
+}
+.right_col_section h3 {
+    color: #0099CC;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+.right_col_section img {
+    border: 5px solid #E4E4E4;
+    float: left;
+    margin: 3px 15px 0 0;
+}
+.right_col_section p {
+    margin-bottom: 15px;
+}
+.right_col_section ul {
+    margin: 15px 0;
+    padding: 0 0 0 30px;
+}
+.right_col_section ul li {
+    margin-bottom: 5px;
+}
+.right_col_section #welcome_title {
+    background: url("images/templatemo_welcome.gif") no-repeat scroll left top transparent;
+    height: 38px;
+    margin-bottom: 20px;
+}
+.right_col_section .right_cleaner_with_10px {
+    display: block;
+    float: left;
+    font-size: 1px;
+    height: 100%;
+    width: 10px;
+}
+.right_col_section .right_two_col {
+    float: left;
+    width: 280px;
+}
+.right_two_col img {
+    float: none;
+    margin-bottom: 10px;
+}
+.right_two_col p {
+    margin-bottom: 5px;
+}
+#templatemo_footer {
+    background-color: #E3E3E3;
+    border-top: 5px solid #DADADA;
+    clear: both;
+    padding: 10px 0;
+    text-align: center;
+    width: 960px;
+}

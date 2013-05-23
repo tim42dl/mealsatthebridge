@@ -1,0 +1,552 @@
+
+body {
+    background: url("images/bd3.png") no-repeat scroll 0 0 #efefe7;
+	background-size: cover;
+	/*background-image: url("images/bfi.jpg");*/
+    color: #787F8C;
+    font-family: Verdana,Arial,san-serif;
+    font-size: 11px;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+	/*background-color:#efefe7; #FFFFFF*/
+}
+
+li.navFacebook{
+background-image: url("images/facebook_images.jpg") ;
+background-size:19px 19px;
+background-repeat: no-repeat;
+border-right: 0px none;
+size: 19px 19px;
+}
+
+li.navLinkedin{
+background-image: url("images/facebook_images.jpg") ;
+background-size:19px 19px;
+background-repeat: no-repeat;
+border-right: 0px none;
+}
+
+#header{
+	data-position: static;
+	data-top: auto;
+}
+
+a:link, a:visited {
+    color: #0099CC;
+    text-decoration: none;
+}
+a:active, a:hover {
+    color: #006699;
+    text-decoration: underline;
+}
+p {
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+}
+.cleaner {
+    clear: both;
+    font-size: 1px;
+    height: 1px;
+    width: 100%;
+}
+.cleaner_with_height {
+    clear: both;
+    font-size: 1px;
+    height: 30px;
+    width: 100%;
+}
+#templatemo_container {
+    background: url("images/templatemo_main_bg.gif") repeat-y scroll 0 0 transparent;
+	background-color: #FF0000;
+    margin: 0 auto;
+    padding: 0 10px;
+    width: 960px;
+}
+#templatemo_header {
+    /*background: url("images/header_img_bg.jpg") no-repeat scroll center top transparent;*/
+	/*background: url("images/galleryofhopelaunch005.jpg")  no-repeat scroll center top transparent;
+	/*background-size:155px 960px; 10% 60%
+margin-right: 20px;
+mealsatthebridge_img2.jpg
+   /* height: 360px;*/
+ /* background:url("images/Meals at the Bridge2_logo.jpg") contain, url("images/galleryofhopelaunch005.jpg");
+   background-size: 960px 155px;
+
+   */
+background: url("images/Meals at the Bridge2_logo.jpg")  no-repeat ,
+url("images/galleryofhopelaunch005.jpg") 10% 50% no-repeat  transparent
+;
+background-color: #E0F2F7;
+background-size: contain cover;
+border: solid;
+border: thick;
+   vertical-align:top;
+   font-size: 12px;
+   height: 235px;
+    width: 960px;
+	width 100%;
+}
+
+#templatemo_header #center{
+	background: url("images/Meals at the Bridge2_logo.jpg")  no-repeat scroll center top transparent;
+	background-image: url("images/Meals at the Bridge2_logo.jpg");
+
+}
+#templatemo_header #out_mission_section {
+    float: left;
+	box-sizing: content-box;
+    margin-left: 23.2%;
+    margin-top: 10px;
+    padding: 15px 55px;
+    width: 250px;
+}
+
+#templatemo_header #supporters{
+   background: url("images/second-bite-logo.jpg");
+   float: right;
+}
+#templatemo_header #daily_bible_verse_section {
+    float: right;
+    margin-right: 30px;
+    margin-top: 210px;
+    padding: 0 15px;
+    width: 250px;
+}
+#daily_bible_verse_section #bible_verse {
+    clear: both;
+    font-weight: bold;
+    padding-top: 5px;
+}
+
+#templatemo_menu #menu
+{/*
+-moz-column-count:2; /* Firefox */
+/*-webkit-column-count:2; /* Safari and Chrome */
+/*column-count:2;
+
+-moz-column-gap:0px; /* Firefox */
+/*-webkit-column-gap:0px; /* Safari and Chrome */
+/*column-gap:0px;*/
+
+/*border: 0;*/
+
+}
+
+#templatemo_menu {
+    background: url("images/templatemo_menu_bg.gif") repeat-x scroll 0 0 transparent;
+    clear: both;
+    width: 960px;
+	overflow: hidden;
+	margin:0 auto;
+	padding: 0;
+}
+#templatemo_menu ul {
+    list-style: none outside none;
+    text-align: center;
+}
+#templatemo_menu ul li {
+    display: inline;
+   /* text-align: center;*/
+}
+#templatemo_menu ul li a {
+    border-right: 1px solid #D5D5D5;
+    color: #4979AF;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px 25px;
+	vertical-align:middle;
+/*    text-align: center;
+    text-decoration: none;*/
+}
+
+#templatemo_menu ul li a img {
+	width:30px;
+	float: right;
+
+
+
+}
+#templatemo_menu ul a img {
+	width:30px;
+	float: right;
+	margin: 0px;
+	padding: 0px 0 0;
+	vertical-align:top;
+ /*   border-right: 1px hidden #D5D5D5;*/
+
+
+}
+#templatemo_menu li a:hover, #templatemo_menu li .current {
+    color: #1D2F53;
+}
+#templatemo_menu li .last {
+    border-right: medium none;
+}
+
+#templatemo_menu #short_code_si_icon img {
+    width: 40px;
+	position: inherit;
+	box-sizing: content-box;
+border-right: 1px solid #D5D5D5;
+    color: #4979AF;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+}
+
+#templatemo_menu a img:hover{
+-moz-transform:scale(1.8); /*scale up image 1.8x in FF3.5+*/
+-webkit-transform:scale(1.8); /*Safari and Chrome version*/
+-o-transform:scale(1.8); /*Opera 9.5+ version*/
+}
+
+#templatemo_content {
+    clear: both;
+    height: 100%;
+    width: 960px;
+}
+
+
+
+#templatemo_content #templatemo_left {
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+    padding: 0;
+    width: 420px;
+}
+#templatemo_content #templatemo_left_courter {
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+    padding: 0;
+    width: 220px;
+}
+
+.wrapper{
+	width: 80%;
+}
+#templatemo_gallery h1{
+/*	background: url("images/mission_title_bg.jpg") no-repeat scroll left bottom transparent;
+	height: 30px;
+	margin: 20px;
+	margin-left: 50px;
+    padding: 20px 0 0 15px;*/
+
+
+    background: url("images/mission_title_bg.jpg") no-repeat scroll left bottom transparent;
+    height: 30px;
+    margin-bottom: 30px;
+    padding: 20px 0 0 15px;
+	margin-left: 30px;
+
+}
+#templatemo_gallery p {
+	margin: 50px;
+	font-size: 14px;
+}
+ul.gallery li:nth-child(n) {
+	display: incline-block;
+	width:240px;
+	position: relative;
+
+}
+span.gallery p{
+	color:  #FFFFFF;
+    margin: 5px;
+    padding: 5px;
+}
+span.gallery h1 {
+	color:  #000066;
+	text-shadow: 3px 3px 3px #FFFFFF;
+	margin: 5px;
+    padding: 5px;
+}
+ul.gallery img {
+float: left;
+	width: 31.42%;
+	max-width: 80%;
+    -moz-box-shadow: 1px 2px 5px 2px rgba(0,0,0,0.3);
+	-webkit-box-shadow: 1px 2px 5px 2px rgba(0,0,0,0.3);
+	box-shadow: 1px 2px 5px 2px rgba(0,0,0,0.3);
+}
+ul.gallery span{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: auto;
+	padding: 10px;
+}
+.courter_Img{
+	background-image: url("./images/dreamstime_m_21299528_medium.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+-moz-background-size:cover;
+-webkit-background-size: cover;
+background-size: cover;
+display: inline-block;
+}
+#old_courter_img{
+	background-attachment: fixed;
+ border: 20px solid #000000;
+}
+#templatemo_content #templatemo_left_courter_Img{
+    max-height: 225px;
+    max-width: 225px;
+	max-width: 10%;
+	width: auto;
+	height: auto;
+ border: 20px solid #000000;
+	transform:scale(0.06);
+}
+#templatemo_content #templatemo_right {
+    float: right;
+    margin-right: 30px;
+    margin-top: 30px;
+    padding: 0;
+    width: 430px;
+}
+#templatemo_content #templatemo_right_courter {
+    float: right;
+    margin-right: 30px;
+    margin-top: 30px;
+    padding: 0;
+}
+#templatemo_right_courter #templatemo_courter {
+    clear: both;
+    width: 620px;
+}
+#templatemo_left_courter #templatemo_courter {
+    clear: both;
+    width: 220px;
+}
+#templatemo_content #templatemo_right ul li {
+    color: #0099CC;
+}
+#templatemo_left #templatemo_mission_section {
+    clear: both;
+    width: 420px;
+}
+
+#templatemo_mission_section h1 {
+    background: url("images/mission_title_bg.jpg") no-repeat scroll left bottom transparent;
+    height: 30px;
+    margin-bottom: 30px;
+    padding: 20px 0 0 15px;
+}
+#templatemo_news_section .templatemo_mission_box {
+    margin: 0 15px 30px;
+}
+.templatemo_mission_box h2 {
+    color: #0099CC;
+    font-size: 14px;
+    margin: 0 0 10px;
+    padding: 0;
+}
+.templatemo_mission_box h3 {
+    color: #0099CC;
+    font-size: 11px;
+    margin: 0 0 2px;
+    padding: 0;
+}
+#templatemo_left #templatemo_videos_section {
+    clear: both;
+    width: 420px;
+}
+#templatemo_videos_section h1 {
+    background: url("images/video_title_bg.jpg") no-repeat scroll left bottom transparent;
+    height: 30px;
+    margin-bottom: 30px;
+    padding: 20px 0 0 15px;
+}
+#templatemo_news_section .templatemo_videos_box {
+    margin: 0 15px 30px;
+}
+.templatemo_videos_box h2 {
+    color: #0099CC;
+    font-size: 14px;
+    margin: 0 0 10px;
+    padding: 0;
+}
+.templatemo_videos_box h3 {
+    color: #0099CC;
+    font-size: 11px;
+    margin: 0 0 2px;
+    padding: 0;
+}
+#templatemo_left #templatemo_location_section {
+    clear: both;
+    width: 420px;
+}
+#templatemo_location_section h1 {
+    background: url("images/location_title_bg.jpg") no-repeat scroll left bottom transparent;
+    height: 30px;
+    margin-bottom: 30px;
+    padding: 20px 0 0 15px;
+}
+#templatemo_news_section .templatemo_location_box {
+    margin: 0 15px 30px;
+}
+.templatemo_location_box h2 {
+    color: #0099CC;
+    font-size: 14px;
+    margin: 0 0 10px;
+    padding: 0;
+}
+.templatemo_location_box h3 {
+    color: #0099CC;
+    font-size: 11px;
+    margin: 0 0 2px;
+    padding: 0;
+}
+#templatemo_left #templatemo_news_section {
+    clear: both;
+    width: 420px;
+}
+#templatemo_news_section h1 {
+    background: url("images/news_title_bg.gif") no-repeat scroll left bottom transparent;
+    height: 30px;
+    margin-bottom: 30px;
+    padding: 20px 0 0 15px;
+}
+#templatemo_news_section .templatemo_news_box {
+    margin: 0 15px 30px;
+}
+.templatemo_news_box h2 {
+    color: #0099CC;
+    font-size: 14px;
+    margin: 0 0 10px;
+    padding: 0;
+}
+.templatemo_news_box h3 {
+    color: #0099CC;
+    font-size: 11px;
+    margin: 0 0 2px;
+    padding: 0;
+}
+#templatemo_left .left_col_section {
+    margin-bottom: 30px;
+    padding: 0;
+}
+#templatemo_right .right_col_section {
+    margin-bottom: 30px;
+    padding: 0;
+}
+.right_col_section h1 {
+    color: #0099CC;
+    font-size: 22px;
+    font-weight: normal;
+    margin: 0 0 15px;
+    padding: 0;
+}
+.right_col_section h2 {
+    color: #0099CC;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0 0 15px;
+    padding: 0;
+}
+.right_col_section h3 {
+    color: #0099CC;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+.right_col_section img {
+    border: 5px solid #E4E4E4;
+    float: left;
+    margin: 3px 15px 0 0;
+}
+.right_col_section p {
+    margin-bottom: 15px;
+}
+.right_col_section ul {
+    margin: 15px 0;
+    padding: 0 0 0 30px;
+}
+.right_col_section ul li {
+    margin-bottom: 5px;
+}
+.right_col_section #welcome_title {
+    background: url("images/templatemo_welcome.gif") no-repeat scroll left top transparent;
+    height: 38px;
+    margin-bottom: 20px;
+}
+.right_col_section .right_cleaner_with_10px {
+    display: block;
+    float: left;
+    font-size: 1px;
+    height: 100%;
+    width: 10px;
+}
+.right_col_section .right_two_col {
+    float: left;
+    width: 280px;
+}
+.right_two_col img {
+    float: none;
+    margin-bottom: 10px;
+}
+.right_two_col p {
+    margin-bottom: 5px;
+}
+#templatemo_footer {
+    background-color: #E3E3E3;
+    border-top: 5px solid #DADADA;
+    clear: both;
+    padding: 10px 0;
+    text-align: center;
+    width: 960px;
+}
+/* Arts Galory*/
+
+#tempArtsGalory_Img{
+
+    max-height: 225px;
+    max-width: 225px;
+	max-width: 10%;
+	width: auto;
+	height: auto;
+	/*
+	 margin-bottom: 30px;
+	display: inline-block;
+	botton: 0;
+	margin: 0 20px 20px 0;
+		width:5px;
+	height:5px;
+
+*/
+	transform:scale(0.06);
+}
+
+
+
+div#show {
+background-color:#FFFFFF;
+width:955px;
+margin:0; padding:2px;
+/*border:1px solid #909090;*/
+}
+
+div#show table input,  div#show4 table input {
+outline-style:none;
+}
+
+
+
+
+#mellife {
+	background-attachment: scroll;
+    background-clip: border-box;
+    background-color: #FFFFFF;
+    background-image: url("images/bfi.jpg");
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat-x;
+    background-size: auto auto;
+	height: 900px;
+}
