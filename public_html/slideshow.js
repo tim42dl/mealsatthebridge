@@ -24,9 +24,9 @@
 	slideShow[7] = ["./images/Ozmmaus_images/Gallery 014.jpg", "By: Samuel Roussel Title: Flowers 2013", "http://www.mealsatthebridge.org/"];
 	slideShow[8] = ["./images/Ozmmaus_images/Gallery 015.jpg", "By: Samuel Roussel Title: Flowers 2013", "http://www.mealsatthebridge.org/"];
 	slideShow[9] = ["./images/Ozmmaus_images/Gallery 016.jpg", "By: Steven Bishop", "http://www.mealsatthebridge.org/"];
-	slideShow[10] = ["./images/Ozmmaus_images/Gallery 017.jpg", "By: C. Ashton Title: 2012", "http://www.mealsatthebridge.org/"];
-	slideShow[11] = ["./images/Ozmmaus_images/Gallery 021.jpg", "By: Djarro Lambasfee Title: The dreamtime & the rainbow dreaming ", "http://www.mealsatthebridge.org/"];
-	slideShow[12] = ["./images/Ozmmaus_images/Gallery 022.jpg", "By: Djarro Lambasfee Title: The dreaming is quest & the questnis a dreaming", "http://www.mealsatthebridge.org/"];
+	slideShow[10] = ["./images/Ozmmaus_images/Gallery 017.jpg", "By: Cheryl Ashton Title: 2012", "http://www.mealsatthebridge.org/"];
+	slideShow[11] = ["./images/Ozmmaus_images/Gallery 021.jpg", "By: Djarro Lambadgee Title: The dreamtime & the rainbow dreaming ", "http://www.mealsatthebridge.org/"];
+	slideShow[12] = ["./images/Ozmmaus_images/Gallery 022.jpg", "By: Djarro Lambadgee Title: The dreaming is quest & the questnis a dreaming", "http://www.mealsatthebridge.org/"];
     slideShow[13] = ["./images/Ozmmaus_images/Gallery 019.jpg", "8/10 By: C. Sweetman Title: Tree of life", "http://www.mealsatthebridge.org/"];
 //	slideShow[0] = ["1-big.jpg", "Seagulls", "http://www.2webvideo.com", "_new", "top=250, left=300, width=500, height=300, location, resizable, scrollbars"];
 

@@ -15,7 +15,9 @@ if(!session_id()) session_start();
         <div id="templatemo_gallery">
           </br>
         <h1>Gallery of Hope</h1>
-        <p>These wonderful art works have been created by people attending Meals @ the bridge </p>
+        <p>These wonderful art works have been created by people attending Meals @ the bridge
+ and the community arts project Ozanam House
+        </p>
      </div>
 <div id="show"><script type="text/javascript">new inter_slide(slideShow)</script></div>
 

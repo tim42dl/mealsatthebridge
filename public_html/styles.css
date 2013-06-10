@@ -1,7 +1,8 @@
 
 body {
-    background: url("images/bd3.png") no-repeat scroll 0 0 #efefe7;
-	background-size: cover;
+   /* background: url("images/bd3.png") no-repeat scroll 0 0 #efefe7;*/
+	background: url("images/bfi.jpg") repeat scroll 0 0 transparent;
+	/*background-size: cover;*/
 	/*background-image: url("images/bfi.jpg");*/
     color: #787F8C;
     font-family: Verdana,Arial,san-serif;
@@ -58,8 +59,9 @@ p {
     width: 100%;
 }
 #templatemo_container {
-    background: url("images/templatemo_main_bg.gif") repeat-y scroll 0 0 transparent;
-	background-color: #FF0000;
+    /*background: url("images/templatemo_main_bg.gif") repeat-y scroll 0 0 transparent;*/
+
+	/*background-color: #FF0000;*/
     margin: 0 auto;
     padding: 0 10px;
     width: 960px;
@@ -75,19 +77,19 @@ mealsatthebridge_img2.jpg
    background-size: 960px 155px;
 
    */
-background: url("images/Meals at the Bridge2_logo.jpg")  no-repeat ,
-url("images/galleryofhopelaunch005.jpg") 10% 50% no-repeat  transparent
+background: url("images/Meals at the Bridge2_logo.jpg")  no-repeat /*,
+url("images/galleryofhopelaunch005.jpg") -50% 90% no-repeat  transparent*/
 ;
-background-color: #E0F2F7;
+/*background-color: #E0F2F7;*/
 background-size: contain cover;
 border: solid;
 border: thick;
    vertical-align:top;
    font-size: 12px;
    height: 235px;
-    width: 960px;
-	width 100%;
+	width: 100%;
 }
+
 
 #templatemo_header #center{
 	background: url("images/Meals at the Bridge2_logo.jpg")  no-repeat scroll center top transparent;
@@ -536,6 +538,12 @@ div#show table input,  div#show4 table input {
 outline-style:none;
 }
 
+#templatemo_header_line {
+	width: 960px;
+	height: 5px;
+	background-image: url("images/sepline.png") ;
+	background-size: auto auto;
+}
 
 
 

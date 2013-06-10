@@ -23,7 +23,7 @@
 				<p>We are located in the CBD of Melbourne in Batman Park. Our community space is at
 				<b>80 Rebecca Walk in Batman Park.</b>
 The meals are served every Saturday evening & other times during the week are made available for drop-in & a fellowship group.
-		        </p>
+		        </p></br>
 				<iframe width="300" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.au/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=80+Rebecca+Walk&amp;aq=&amp;sll=-37.816354,144.957029&amp;sspn=0.009679,0.022573&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Rebecca+Walk,+Melbourne+Victoria+3000&amp;ll=-37.821514,144.956639&amp;spn=0.005085,0.006437&amp;z=16&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com.au/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=80+Rebecca+Walk&amp;aq=&amp;sll=-37.816354,144.957029&amp;sspn=0.009679,0.022573&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Rebecca+Walk,+Melbourne+Victoria+3000&amp;ll=-37.821514,144.956639&amp;spn=0.005085,0.006437&amp;z=16" style="color:#0000FF;text-align:left">View Larger Map</a></small>
             </div>
       </div>
